@@ -6,16 +6,14 @@ This is a design concept, not the official tour site. Official info and tickets:
 
 ## What's on the page
 - Milwaukee on-sale banner (Fri, Nov 20 at 10am)
-- All 13 tour stops in date order, each with a ticket button
+- All 13 tour stops in date order, each linking to the same ticket page the official site uses
 - "An Evening With Murph" section (show description to be filled in)
 - Win Free Tickets sign-up form (city picker for every stop)
 - Milwaukee finale section
 - Works on desktop and phones
 
 ## Still needed before launch
-- Showtimes and ticket prices for each venue
 - A short description of the show
-- Direct event links for each ticket button (they currently go to each ticketing site's home page)
 - Connect the giveaway form to an email list
 
 ## Photo credits
